@@ -1,0 +1,92 @@
+{
+    "responses": {
+        "hypertension": [
+            "Hypertension, or high blood pressure, is a common condition that can lead to serious health problems if left untreated.",
+            "Treatment for hypertension often includes lifestyle changes such as diet and exercise, as well as medication.",
+            "It's important to monitor your blood pressure regularly and follow your doctor's recommendations."
+        ],
+        "fever":["high fever, low fever"],
+        "diabetes": [
+            "Diabetes is a chronic condition that affects how your body processes glucose (sugar) in your blood.",
+            "Managing diabetes involves monitoring your blood sugar levels, following a healthy diet, exercising regularly, and taking medication if prescribed.",
+            "Complications of diabetes can include heart disease, stroke, kidney damage, and nerve damage."
+        ],
+        "asthma": [
+            "Asthma is a chronic lung disease characterized by inflammation and narrowing of the airways.",
+            "Treatment for asthma usually involves medication to control symptoms and prevent flare-ups, as well as identifying and avoiding triggers.",
+            "It's important for people with asthma to have an asthma action plan and to follow up regularly with their healthcare provider."
+        ],
+        "cold": [
+            "The common cold is a viral infection of the upper respiratory tract.",
+            "Symptoms of the common cold include sneezing, runny or stuffy nose, sore throat, coughing, and sometimes fever.",
+            "Treatment for the common cold focuses on relieving symptoms and includes rest, hydration, and over-the-counter medications."
+        ],
+        "greeting": [
+            "Hello! How can I assist you today?",
+            "Hi there! What can I help you with?",
+            "Hey! What brings you here?"
+        ],
+        "farewell": [
+            "Goodbye! Have a great day!",
+            "See you later! Take care!",
+            "Farewell! Until next time!"
+        ],
+        "thanks": [
+            "You're welcome!",
+            "No problem! Glad I could help!",
+            "Anytime! Feel free to ask if you need more assistance!"
+        ],
+        "about_bot": [
+            "I am a chatbot designed to assist you with various queries.",
+            "I'm here to help you with information and support.",
+            "Feel free to ask me anything!"
+        ],
+        "default": [
+            "Sorry, I didn't understand that. Can you please provide more details?",
+            "I'm not sure about that. Could you please clarify?",
+            "It seems I can't help with that. Is there something else you'd like to know?"
+        ],
+        "find_doctor": [
+            "Sure, I can help you find a doctor. Please provide your location and the type of doctor you're looking for."
+        ]
+    },
+    "doctor_names": {
+        "cardiologist": [
+            "Dr. John Smith",
+            "Dr. Emily Johnson",
+            "Dr. Michael Brown"
+        ],
+        "endocrinologist": [
+            "Dr. Sarah Lee",
+            "Dr. David Wang",
+            "Dr. Jennifer Martinez"
+        ],
+        "pulmonologist": [
+            "Dr. Robert Garcia",
+            "Dr. Lisa Anderson",
+            "Dr. James Taylor"
+        ],
+        "general_physician": [
+            "Dr. Jessica White",
+            "Dr. Matthew Clark",
+            "Dr. Amanda Harris"
+        ]
+        
+    },
+    
+    "triggers": {
+        "hypertension": ["hypertension", "high blood pressure", "blood pressure"],
+        "fever":["fever"],
+        "diabetes": ["diabetes", "blood sugar", "insulin"],
+        "asthma": ["asthma", "breathing difficulty", "wheezing"],
+        "cold": ["cold", "common cold", "runny nose", "sore throat"],
+        "greeting": ["hi", "hello", "hey"],
+        "farewell": ["bye", "goodbye", "see you"],
+        "thanks": ["thank you", "thanks"],
+        "about_bot": ["who are you", "what are you", "about"],
+        "default": ["default"],
+        "find_doctor": ["doctor", "find doctor", "doctor near me", "doctor search", "find doctor"]
+        
+    }
+    
+}
